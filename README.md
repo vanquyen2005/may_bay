@@ -59,7 +59,7 @@ Hệ thống quản lý đại lý bán vé máy bay được xây dựng nhằm
 ### Trang quản lý khách hàng 
 <img width="1901" height="939" alt="image" src="docs/khachhang.PNG" />
 ### Giao diên người dùng
-<img width="1902" height="930" alt="image" src="nguoidung.PNG" />
+<img width="1902" height="930" alt="image" src="docs/nguoidung.PNG" />
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
