@@ -1,0 +1,153 @@
+/* ===============================
+   🌐 T-Q Airline - Global Styles
+   =============================== */
+
+body {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Hero Section */
+.hero-gradient {
+  background: linear-gradient(135deg, #007bff 0%, #004aad 100%);
+  position: relative;
+  border-radius: 1.5rem;
+}
+
+.hero-gradient h1 {
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.hero-gradient p {
+  color: #f0f0f0;
+}
+
+/* Card Hover Effects */
+.card-hover {
+  transition: all 0.3s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* Buttons */
+button,
+.btn {
+  transition: all 0.25s ease-in-out;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+button:hover,
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+/* Navbar Customization (nếu dùng trong header.php) */
+.navbar-custom {
+  background: #ffffff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-custom .nav-link {
+  color: #333;
+  font-weight: 500;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #007bff;
+}
+
+/* Footer */
+footer {
+  background: #0d1b2a;
+  color: #ddd;
+  padding: 40px 0;
+  text-align: center;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+footer a:hover {
+  color: #00b4d8;
+}
+
+/* Form elements */
+select,
+input[type="date"],
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  transition: border-color 0.3s ease;
+}
+
+select:focus,
+input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.2);
+}
+
+/* Section titles */
+h2.section-title {
+  font-size: 2rem;
+  color: #004aad;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+h2.section-title::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #007bff;
+  border-radius: 2px;
+  margin-top: 8px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-gradient {
+    text-align: center;
+  }
+  .hero-gradient .relative {
+    padding: 2rem 1rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+/* Animation for scroll fade-in */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+
