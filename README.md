@@ -77,7 +77,7 @@ Clone project về thư mục `htdocs` của XAMPP (ví dụ ổ C):
 
 ```bash
 cd C:\xampp\htdocs
-https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien.git
+(https://github.com/vanquyen2005/may_bay)
 Truy cập project qua đường dẫn:
 👉 http://localhost/authentication_login.
 ```
