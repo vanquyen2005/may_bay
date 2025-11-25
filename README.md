@@ -8,9 +8,9 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="docs/logo/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/logo/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -49,7 +49,7 @@ Hệ thống quản lý đại lý bán vé máy bay được xây dựng nhằm
 
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
-<img width="1902" height="931" alt="![Uploading dangnhap.PNG…]()" src="" />
+<img width="1902" height="931" alt="dangnhap" src="dangnhap.png" />
 ### Trang dashboard admin
 <img width="1885" height="935" alt="image" src="https://github.com/user-attachments/assets/ef86f98f-d8aa-4bdd-8157-ee1bae6a0a09" />
 ### Trang dashboard cán bộ 
