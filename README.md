@@ -133,4 +133,11 @@ Sau khi đăng nhập Admin có thể:
 Username: admin 
 
 Password: 123
-    
+
+Người dùng đăng nhập:
+
+Username: truong 
+
+Password: 1243
+
+
