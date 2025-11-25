@@ -49,17 +49,17 @@ Hệ thống quản lý đại lý bán vé máy bay được xây dựng nhằm
 
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
-<img width="1902" height="931" alt="dangnhap" src="docs/dangnhap.png" />
+<img width="1902" height="931" alt="dangnhap" src="docs/dangnhap.PNG" />
 ### Trang dashboard admin
 <img width="1885" height="935" alt="image" src="docs/admin.PNG" />
 ### Trang Quản lí vé 
-<img width="1886" height="940" alt="image" src="docs/ve.png" />
+<img width="1886" height="940" alt="image" src="docs/ve.PNG" />
 ### Trang Quản lí chuyến bay     
-<img width="1890" height="932" alt="image" src="docs/chuyenbay.png" />
+<img width="1890" height="932" alt="image" src="docs/chuyenbay.PNG" />
 ### Trang quản lý khách hàng 
-<img width="1901" height="939" alt="image" src="docs/khachhang.png" />
+<img width="1901" height="939" alt="image" src="docs/khachhang.PNG" />
 ### Giao diên người dùng
-<img width="1902" height="930" alt="image" src="nguoidung.png" />
+<img width="1902" height="930" alt="image" src="nguoidung.PNG" />
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
