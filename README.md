@@ -77,7 +77,7 @@ Clone project về thư mục `htdocs` của XAMPP (ví dụ ổ C):
 
 ```bash
 cd C:\xampp\htdocs
-(https://github.com/vanquyen2005/may_bay)
+https://github.com/vanquyen2005/may_bay.git
 Truy cập project qua đường dẫn:
 👉 http://localhost/authentication_login.
 ```
