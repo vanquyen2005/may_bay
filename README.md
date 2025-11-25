@@ -130,11 +130,6 @@ Hệ thống có thể cấp tài khoản admin
 
 Sau khi đăng nhập Admin có thể:
 
-Quản lí vé
-
-Quản Lí chuyến bay
-
-Quản lí khách hàng
-
-Giao diện người dùng
+Username: admin 
+Password: 123
     
