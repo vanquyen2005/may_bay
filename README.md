@@ -51,7 +51,7 @@ Hệ thống quản lý đại lý bán vé máy bay được xây dựng nhằm
 ### Trang đăng nhập
 <img width="1902" height="931" alt="dangnhap" src="docs/dangnhap.png" />
 ### Trang dashboard admin
-<img width="1885" height="935" alt="image" src="docs/admin.png" />
+<img width="1885" height="935" alt="image" src="docs/admin.PNG" />
 ### Trang Quản lí vé 
 <img width="1886" height="940" alt="image" src="docs/ve.png" />
 ### Trang Quản lí chuyến bay     
